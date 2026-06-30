@@ -1,0 +1,2 @@
+# DB-TOKEN-ALL-SECRIPT
+Edyan
