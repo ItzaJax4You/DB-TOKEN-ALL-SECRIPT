@@ -1,4 +1,11 @@
-Key = {
-"KEY_KIWCEWWEEEK"
-"KEY_AMBOYYSODAPPNYOO";
-}
+ [
+  {
+    "key": "LUCENT-ALPHA-2024-001"
+  },
+  {
+    "key": "LUCENT-BETA-2024-002"
+  },
+  {
+    "key": "ADMIN-SECRET-KEY"
+  }
+ ]
